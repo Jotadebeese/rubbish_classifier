@@ -1,1 +1,2 @@
-# rubbish_classifier
+# Rubbish Classifier
+
